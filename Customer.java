@@ -1,6 +1,6 @@
 package hw;
 //Create a class like Employee called Customer with one function called GetInterestAmount() with 10% interest.
-//Create a class like Manager called BankManager with four objhfvkvfkjdbfkdjbdkljfbjects and calculate customer's interest. 
+//Create a class like Manager called BankManager with five objhfvkvfkjdbfkdjbdkljfbjects and calculate customer's interest. 
 //Enhance calculator class to have the following 3 functions: Find whether a given string is available in our database or not, find the factorial of a number, reverse a string
 public class Customer {
 	int id;
